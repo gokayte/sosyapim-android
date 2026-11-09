@@ -1,0 +1,8 @@
+{
+  "name": "SOS Yapım",
+  "description": "SOS Yapım resmî video klipleri, müzik yayınları, sanatçı kataloğu ve retro CRT müzik çalar",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
